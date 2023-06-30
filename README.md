@@ -5,17 +5,17 @@ Nationally, the average age at which kids get a phone of their own is 10.3 years
 
 To solve the above mentioned problem we are building a GUI which helps the students in learning maths and they can easily remember all the formulas. They can draw the shapes in the application which recognizes the shape gives all the related information like list of formulas. This helps the students to learn interactively.
 # Libraries Used
-Tensorflow
-Keras
-FLask
-Numpy
+Tensorflow,
+Keras,
+FLask,
+Numpy,
 Matplotlib
 # Tools used
-Anaconda Prompt
-Spyder
-Jupyter Notebook
-IBM cloud
+Anaconda Prompt,
+Spyder,
+Jupyter Notebook,
+IBM cloud,
 IBM Watson Studio
 # Languages used for Website Front-end
-HTML
+HTML,
 CSS
